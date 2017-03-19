@@ -18,13 +18,13 @@ cd project-javascript-todo-list
 
 ### Windows
 
-Open the file index.html in a browser
+1. Open the file index.html in a browser
 
 ```
 start index.html
 ```
 
-Open the browser console
+2. Open the browser console
 
 Mozilla Firefox: press the `Ctrl` + `Shift` + `K` keyboard shortcut.
 
@@ -32,13 +32,13 @@ Google Chrome: press the `Cmd` + `Opt` + `J` keybord shortcut.
 
 ### OS X
 
-Open the file index.html in a browser
+1. Open the file index.html in a browser
 
 ```
 open ./index.html
 ```
 
-Open the browser console
+2. Open the browser console
 
 Mozilla Firefox: press the `Command` + `Option` + `K` keyboard shortcut.
 
