@@ -1,4 +1,4 @@
-# Project-Javascript-Todo-List
+# javascript-console-todo-list
 
 ## Installation
 
